@@ -4,7 +4,7 @@ A Prism plugin for Ocean.
 
 ```js
 import { Ocean } from 'https://cdn.spooky.click/r/ocean/latest/mod.js';
-import { OceanPrism } from 'https://cdn.spooky.click/ocean-prism/0.0.1/mod.js';
+import { OceanPrism } from 'https://cdn.spooky.click/ocean-prism/1.0.0/mod.js';
 
 let { html } = new Ocean({
   document,
